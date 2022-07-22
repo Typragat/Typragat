@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Typragat
-- 👀 I’m interested in finding a job
 - 🌱 I’m currently learning c++ and python to learn AI)
 - 📫 How to reach me: telegram @typragat, vk.com/fuckingschoolboy
 
